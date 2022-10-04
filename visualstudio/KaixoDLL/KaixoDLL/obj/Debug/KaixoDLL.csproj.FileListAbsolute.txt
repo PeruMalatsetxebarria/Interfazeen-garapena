@@ -1,0 +1,8 @@
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.csproj.AssemblyReference.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.Kaixo.resources
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.csproj.GenerateResource.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.csproj.CoreCompileInputs.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\bin\Debug\KaixoDLL.dll
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\bin\Debug\KaixoDLL.pdb
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.dll
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.pdb

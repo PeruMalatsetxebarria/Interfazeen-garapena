@@ -1,0 +1,14 @@
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\bin\Debug\KaixoDLL.dll
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\bin\Debug\KaixoDLL.pdb
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CopyComplete
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+C:\Users\malatse.peru\Desktop\interfazeen garapena\visualstudio\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb
