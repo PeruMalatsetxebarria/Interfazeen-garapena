@@ -1,0 +1,30 @@
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'121212121', N'olatz', N'mkij', N'457854125', N'gggg@ggg', N'eeeeeeeee');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'131313131', N'sara', N'frtg', N'125478569', N'gggg@ggg', N'bbbbbbbbb');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'222222222', N'pepito', N'hhhhh', N'123456543', N'fff@ff', N'aaaaaaaaa');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'333333333', N'grillo', N'ccccc', N'323232323', N'ffff@hhhh', N'bbbbbbbbb');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'444444444', N'ana', N'cccv', N'958745478', N'ggg@ggg', N'ccccccccc');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'555555555', N'luis', N'vvvb', N'128541258', N'gggg@ggg', N'ddddddddd');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'666666666', N'juan', N'gggg', N'412563258', N'gggg@ggg', N'eeeeeeeee');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'777777777', N'tomas', N'fff', N'745845214', N'gggg@ggg', N'eeeeeeeee');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'888888888', N'alberto', N'dd', N'745896325', N'gggg@ggg', N'eeeeeeeee');
+INSERT into public."Bezeroa" ("Nan", "Izena", "Helbidea", "Telf", "Emaila", "NanSaltzailea") VALUES (N'999999999', N'maria', N'suuuuuu', N'478521458', N'gggg@ggg', N'bbbbbbbbb');
+
+
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(1 AS Numeric(18, 0)), CAST(N'2021-06-20' AS Date), 4, N'111111111');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(2 AS Numeric(18, 0)), CAST(N'2021-06-21' AS Date), 2, N'111111111');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(3 AS Numeric(18, 0)), CAST(N'2021-06-22' AS Date), 7, N'111111111');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(4 AS Numeric(18, 0)), CAST(N'2021-06-23' AS Date), 1, N'111111111');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(5 AS Numeric(18, 0)), CAST(N'2021-04-23' AS Date), 3, N'222222222');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(6 AS Numeric(18, 0)), CAST(N'2021-04-10' AS Date), 12, N'222222222');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(7 AS Numeric(18, 0)), CAST(N'2021-04-11' AS Date), 2, N'222222222');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(8 AS Numeric(18, 0)), CAST(N'2021-05-11' AS Date), 2, N'333333333');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(9 AS Numeric(18, 0)), CAST(N'2021-05-17' AS Date), 8, N'333333333');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(10 AS Numeric(18, 0)), CAST(N'2021-05-20' AS Date), 3, N'333333333');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(11 AS Numeric(18, 0)), CAST(N'2021-05-11' AS Date), 1, N'333333333');;
+INSERT into public."Salmenta" ("Id", "Data", "Zenbatekoa", "NanBezeroa") VALUES (CAST(12 AS Numeric(18, 0)), CAST(N'2021-05-11' AS Date), 4, N'444444444');;
+
+INSERT into public."Saltzailea" ("Nan", "Izena", "Taldea") VALUES (N'aaaaaaaaa', N'saltzaile1', N'DOP       ');
+INSERT into public."Saltzailea" ("Nan", "Izena", "Taldea") VALUES (N'bbbbbbbbb', N'saltzaile2', N'FED       ');
+INSERT into public."Saltzailea" ("Nan", "Izena", "Taldea") VALUES (N'ccccccccc', N'saltzaile3', N'DOP       ');
+INSERT into public."Saltzailea" ("Nan", "Izena", "Taldea") VALUES (N'ddddddddd', N'saltzaile4', N'FED       ');
+INSERT into public."Saltzailea" ("Nan", "Izena", "Taldea") VALUES (N'eeeeeeeee', N'saltzaile5', N'SWS       ');
